@@ -1,4 +1,4 @@
----
+---3cb3b49b01d24297bc4110ef0fc21b5f
 title: Local source
 titleTemplate: Guides
 description: For users who would like to download and organize their own media.
